@@ -1,0 +1,81 @@
+[
+        {
+            "name": "Bolu Kemojo",
+            "description": "Bolu Kemojo adalah makanan khas Pekanbaru, yang dipopulerkan kembali oleh ibu Dinawati yaitu pada tahun 1998. Kue Bolu ini sebelumnya hanya dibuat untuk sekedar konsumsi dalam keluarga saja, dan tidak dijual secara komersial apalagi dijual sebagai makanan oleh-oleh kota pekanbaru. Tapi dengan tekad yang kuat untuk menjadikan kue bolu ini sebagi makanan khas riau, dan kemudian beliau merintis membuka gerai pertamanya yang berkantor di Jalan Pelajar, yang sekarang jalan tersebut berubah menjadi Jalan lain. ",
+            "Rating": "13.66",
+            "place":"Bengkalis | Riau",
+            "img": "http://4.bp.blogspot.com/-0nv1DQ1bIHU/Vqh520kltNI/AAAAAAAADNU/CEUO2iAEolk/s1600/Resep%2BBolu%2BKemojo%2BKhas%2BRiau.jpg"
+        },
+	
+	 {
+            "name": "Roti Jala",
+            "description": "Roti jala adalah makanan yang berasal dari Melayu Sumatera . Biasanya makanan ini disuguhkan bersama kuah kari Melayu.Di Deli makanan ini terkenal disajikan dengan kari kambing dan acar nanas. Menurut budayawan M Muhar Omtatok, roti jala merupakan makanan Melayu yang bisa saja teradaptasi dari unsur India.",
+            "Rating": "9.65",
+            "place":"Bengkalis | Riau",
+            "img": "http://carnivalmunchies.com/wp-content/uploads/2015/09/2013-03-18-15-25-04.jpg"
+        },
+	
+	{
+            "name": "Roti Canai",
+            "description": "Roti canai atau roti jenis leper yang berbentuk bulat ini, merupakan satu makanan kegemaran di Malaysia. Ia dimakan sebagai makanan pagi, tengahari, petang, dan malam. Sering kali dimakan bersama dengan teh tarik, atau teh ais.Biasanya dihidangkan dengan kuah dal atau parpu atau kari dengansambal ikan bilis.",
+            "Rating": "5.66",
+            "place":"Bengkalis | Riau",
+            "img": "https://ramesia.com/wp-content/uploads/2016/08/bisnis-roti-canai.jpg.webp"
+        },
+	
+	 {
+            "name": "Kue Bangkit",
+            "description": "Diberi nama kue bangkit karena ukuran dari kue ini setelah matang dan dikeluarkan dari oven akan berukuran dua kali lipat dari ukuran adonan semula. Warna kue bangkit ini putih kekuningan dan kadang dipercantik dengan diberi noktah berwarna merah di atasnya. Tekstur kue bangkit yang sangat halus dan gampang remuk. Kue bangkit akan lumer di dalam mulut dan mempunyai rasa yang renyah ketika dikunyah.",
+            "Rating": "20.13",
+            "place":"Bengkalis | Riau",
+            "img": "http://2.bp.blogspot.com/-2OlZqlzIc-Q/UUq-sKF1fpI/AAAAAAAAAH4/kSRPZv3qCBE/s400/bangkit5.jpg"
+        },
+	
+	        {
+            "name": "Lempuk Durian",
+            "description": "Lempuk Durian adalah salah satu Jenis Makanan Khas dari Riau yang terbuat dari Durian, lempuk ini berbentuk seperti dodol.Selain di Riau,lempuk juga dapat dijumpai di daerah lain di Sumatera. Siapa yang tak kenal dengan lempuk durian, "Makanan Khas Riau" ini berasal dari Kabupaten Bengkalis",
+            "Rating": "60.11",
+            "place":"Bengkalis | Riau",
+            "img": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1553347594/xlztuwowc7xlvefiblrk.jpg"
+        },
+	
+	 {
+            "name": "Es Laksmana Mengamuk",
+            "description": "Es Laksamana Mengamuk merupakan minuman dingin yang menggunakan buah kuini sebagai bahan utama. Konon, keberadaan minuman ini berawal dari mengamuknya seorang laksamana di kebun kuini. Laksamana tersebut mengamuk lantaran istrinya dibawa lari oleh pemilik kebun kuini tersebut. ",
+            "Rating": "8.10",
+            "place":"Bengkalis | Riau",
+            "img": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/12/05/4166929732.jpg"
+        },
+	
+	{
+            "name": "Air Mata Pengantin",
+            "description": "Dari sekian banyak minuman khas nusantara ada minuman yang memiliki nama yang unik berasal dari daerah Riau, yaitu Es Air Mata Pengantin. Isinya terdiri dari berbagai macam agar-agar yang kenyal dan berwarna-warni. Selain itu minuman ini juga dilengkapi dengan biji selasih, sirup, serutan es batu, serta blewah. ",
+            "Rating": "7.38",
+            "place":"Bengkalis | Riau",
+            "img": "https://colours-indonesia.com/wp-content/uploads/2019/05/MAY5-750x410.jpg"
+        },
+	
+	 {
+            "name": "Mie Sagu",
+            "description": "Mie sagu adalah kuliner selingan makanan khas masyarakat di Riau khususnya masyarakat Selatpanjang, di Pulau Tebing Tinggi dan sekitarnya, Kab. Kepulauan Meranti (pecahan Kab. Bengkalis), Provinsi Riau, Indonesia.Mie Sagu sudah ada dan menjadi panganan yang diminati masyarakat tempatan sejak zaman nenek moyang sampai dengan hari ini.",
+            "Rating": "50.12",
+            "place":"Bengkalis | Riau",
+            "img": "http://beritakuliner.com/wp-content/uploads/2018/04/7-3-678x380.jpg"
+        },
+
+	{
+            "name": "Ikan Salai",
+            "description": "Ikan Salai merupakan salah satu kuliner lokal dari Kabupaten Muara Enim, Sumatra Selatan. Kuliner lokal ini dapat diolah menjadi beraneka ragam menu, seperti sambal hingga bubur, dari asam pedas sampai nasi lasti. Pindang ikan salai, asam pedas salai, gulai salai, sambal ikan salai, sayur salai dan banyak lagi bahan dasarnya dari ikan salai yang saat ini menjadi menu utama dalam keseharian masyarakat. ",
+            "Rating": "10.40",
+            "place":"Bengkalis | Riau",
+            "img": "https://2.bp.blogspot.com/-Ay4O63rpXh0/Wde-d0fibVI/AAAAAAAAALA/GuhOkhvYINsMGlZWZmQ9fJw2zV2iZ_jQwCLcBGAs/s640/Screenshot_46.jpg"
+        },
+	
+	 {
+            "name": "Cencaluk",
+            "description": "Cincalok adalah makanan khas Kalimantan Barat dan juga berkembang di Kepulauan Riau ini berupa udang berukuran kecil yang proses fermentasinya terjadi dengan bantuan mikrob. Salah satu mikrob yang berperan penting adalah kelompok bakteri asam laktat. Makanan ini juga ditemui di daerah Malaka dan termasuk bahan untuk masakan peranakan. ",
+            "Rating": "17.5",
+            "place":"Bengkalis | Riau",
+            "img": "http://4.bp.blogspot.com/-ACFKCw1VPVU/TiaqR8-FznI/AAAAAAAAAVw/nJyNzFCbpGE/s1600/311.a+Cencaluk.JPG"
+        }
+]
